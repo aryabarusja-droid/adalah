@@ -477,5 +477,5 @@ Desain Komunikasi Visual adalah bidang ilmu yang mempelajari cara menyampaikan p
     hamburger.addEventListener('click', () => {
       navMenu.classList.toggle('active');
     });
-  </script>
+  </script> 
 </body
